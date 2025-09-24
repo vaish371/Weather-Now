@@ -20,6 +20,7 @@ Run npm install to install dependencies
 Run npm run dev to start the application
 
 #OUTPUT
+https://drive.google.com/file/d/12wXG7vE63b26kwlX5sUj2xyJqwJFxe8w/view?usp=sharing
 
 <img width="608" height="432" alt="Image" src="https://github.com/user-attachments/assets/a0c275a2-1f7a-4a78-8abe-cf6b6223a51a" />
 
